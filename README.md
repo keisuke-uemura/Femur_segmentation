@@ -12,3 +12,8 @@ Tested on the following environments:
 Win10, GPU: GTX1080 CUDA: 10.1, CuDNN: 7.6.5
 
 For details, please see [requirements.txt](requirements.txt)
+
+# Licence
+Codes can be used for research purpose or for educational purpose.
+
+For details, please see LICENCE.txt
